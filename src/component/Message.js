@@ -8,7 +8,7 @@ class Message extends Component{
     }
     changeMessage(){
         this.setState({
-            message:'Thanks for clcking'
+            message:'Thanks for clicking'
         })
     }
     render()
